@@ -1,6 +1,5 @@
 # RESULTS
 Results of xGE tests
-- results of unit testing
 - INPUT filename: INPUT_Splice_junction_variants (splice junction deletions from ESP)
 - OUTPUT: OUTPUT_Splice_J_Del.csv
 - The output has the following column IDs:
