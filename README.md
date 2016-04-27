@@ -1,8 +1,12 @@
 # RESULTS
 Results of xGE tests
+
 INPUT filename: INPUT_Splice_junction_variants (splice junction deletions from ESP)
+
 OUTPUT: OUTPUT_Splice_J_Del.csv
+
 The output has the following column IDs:
+
 1. chrom
 2. position
 3. dbSNP
