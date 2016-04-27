@@ -3,7 +3,7 @@ Results of xGE tests
 
 Input file: INPUT_Splice_junction_variants (splice junction deletions from ESP)
 
-Output file: OUTPUT_Splice_J_Del.csv
+Output file: OUTPUT_Splice_J_Del
 
 The output has the following column IDs:
 
